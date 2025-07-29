@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/birthday-invite/static/css/main.54ea6d08.css",
-    "main.js": "/birthday-invite/static/js/main.e24cf8c7.js",
+    "main.js": "/birthday-invite/static/js/main.14904b73.js",
     "index.html": "/birthday-invite/index.html",
     "main.54ea6d08.css.map": "/birthday-invite/static/css/main.54ea6d08.css.map",
-    "main.e24cf8c7.js.map": "/birthday-invite/static/js/main.e24cf8c7.js.map"
+    "main.14904b73.js.map": "/birthday-invite/static/js/main.14904b73.js.map"
   },
   "entrypoints": [
     "static/css/main.54ea6d08.css",
-    "static/js/main.e24cf8c7.js"
+    "static/js/main.14904b73.js"
   ]
 }
